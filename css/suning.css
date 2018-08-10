@@ -2356,7 +2356,7 @@
 .phone_bigPicture {
 	width: 190px;
 	height: 360px;
-	background-color: blue;
+	/* background-color: blue; */
 	float: left;
 	position: relative;
 }
@@ -2502,7 +2502,7 @@
 	width: 1190px;
 	height: 455px;
 	margin: 0 auto;
-	/* background-color: yellowgreen; */
+	background-color: yellowgreen;
 }
 
 .dianqi_title {
